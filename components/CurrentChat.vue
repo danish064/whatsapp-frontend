@@ -5,7 +5,10 @@
         <img class="rounded-full" src="https://placehold.co/40x40" alt="" />
       </div>
     </div>
-    <div class="bg-chat-background overflow-y-auto  py-1 px-3 h-full">
+
+    <div
+      class="bg-chat-background pr-4 overflow-y-auto overscroll-auto py-1 px-3 h-full"
+    >
       <Message v-for="n in 20" />
       <Message v-for="n in 20" :isSent="true" />
     </div>
