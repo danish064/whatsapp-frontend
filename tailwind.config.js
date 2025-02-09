@@ -12,7 +12,7 @@ export default {
         "ui-hover": "rgb(50 52 52)",
         "chat-focus": "rgb(53	53 53)",
         "chat-hover": "rgb(45 45 45)",
-        "chat-send": "rgb(21 77 56)",
+        "chat-sent": "rgb(21 77 56)",
         "chat-recieved": "rgb(36 38 38)",
         "chat-background": "rgb(22 23 23)",
       },
